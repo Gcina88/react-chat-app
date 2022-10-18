@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Gcina88/react-chat-app/issues"
   },
-  "homepage": "https://github.com/Gcina88/react-chat-app#readme"
+  "homepage": "https://github.com/Gcina88/react-chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.5.3"
+  }
 }
