@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat app in react and socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gcina88/react-chat-app.git"
+  },
+  "author": "Muzi Msibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gcina88/react-chat-app/issues"
+  },
+  "homepage": "https://github.com/Gcina88/react-chat-app#readme"
+}
